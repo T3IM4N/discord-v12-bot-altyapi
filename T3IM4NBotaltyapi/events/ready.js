@@ -42,7 +42,6 @@ module.exports = async (client) => {
   });
 
   /*________Bot Status___________*/
-  client.user.setStatus("online");
   var rich = [
     `KZSYSTEM | ${client.guilds.cache.size} Sunucu`,
     "!yardım | !help | !discord",
@@ -57,9 +56,5 @@ module.exports = async (client) => {
     idle = boşta
     dnd = rahatsız etmeyin
     online = çevrimiçi
-
-    WATCHING = izliyor
-    LISTENING = dinliyor
-    PLAYING = oynuyor
   */
 };
