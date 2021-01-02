@@ -33,7 +33,7 @@ client.user.setActivity(rich[random], "online");
 yukarıdaki kod ile botun durumunu değiştirebilirsiniz,
 ###### online - bot durumu online olur
 ###### idle - bot durumu boşta olur
-###### online - bot durumu rahatsız etmeyin olur
+###### dnd - bot durumu rahatsız etmeyin olur
 üstteki kod satırında sadece tırnak işareti arasındaki yazıyı değişin aksi taktirde bot presence çalışmayabilir.
 
 - ##### configs.json kullanımı
