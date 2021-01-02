@@ -1,3 +1,4 @@
+[![KZSYSTEM](https://cdn.discordapp.com/attachments/795066298295910420/795071380839202827/kzsystemtextlogo.png "KZSYSTEM")](https://github.com/T3IM4N "KZSYSTEM")
 ## Giriş
 İndirdiğiniz klasörün içindeki starter.bat botu başlatır, ama başlattığınız zaman karşınıza birsürü konsol hatası gelmektedir, bunlar hata değildir bize sadece eksik modül olduğunu söylemektedir, ve bizim gerekli modülleri indirmemiz gerekmektedir.
 - ##### Nasıl modül indirilir:
