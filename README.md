@@ -1,4 +1,4 @@
-[![KUZGUN](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/sZV8bBfME8)
+[![KUZGUN](https://cdn.discordapp.com/attachments/795066298295910420/795066347091918908/kuzgunwallpaper.png)](https://discord.gg/sZV8bBfME8)
 ## Giriş
 İndirdiğiniz klasörün içindeki starter.bat botu başlatır, ama başlattığınız zaman karşınıza birsürü konsol hatası gelmektedir, bunlar hata değildir bize sadece eksik modül olduğunu söylemektedir, ve bizim gerekli modülleri indirmemiz gerekmektedir.
 - ##### nasıl modül indirilir:
