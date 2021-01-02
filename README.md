@@ -1,5 +1,4 @@
 ## Giriş
-[![KZSYSTEM Discord Invite](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
 İndirdiğiniz klasörün içindeki starter.bat botu başlatır, ama başlattığınız zaman karşınıza birsürü konsol hatası gelmektedir, bunlar hata değildir bize sadece eksik modül olduğunu söylemektedir, ve bizim gerekli modülleri indirmemiz gerekmektedir.
 - ##### nasıl modül indirilir:
 İlk önce starter.bat ile botu çalıştırıp bizim için lazım olan modülleri öğrenelim, bunun için aşşağıdaki konsol çıktısına uyarak modülümüzün adını öğrenelim,
@@ -73,8 +72,8 @@ Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar al
 ## Ek Bağlantılar
 #### Discord:
 Developer Discord: `T3IM4N#6185`
-Sunucu 1: [T3IM4N++](https://discord.com/invite/sZV8bBfME8 "T3IM4N++")
-Sunucu 2: [KZSYSTEM](https://discord.com/invite/sVePrXS "KZSYSTEM")
+Sunucu 1: [![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=T3IM4N++&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
+Sunucu 2: [![KZSYSTEM](https://img.shields.io/discord/676684128120471572?color=%237289DA&label=KZSYSTEM&logo=discord&logoColor=white)](https://discord.com/invite/sVePrXS)
 
 #### YouTube:
 R4V3N Oyun kanalı: [Cüneyt Sedef](https://www.youtube.com/channel/UCXG8WnwhdBXSfME8__wQ4vA "Cüneyt Sedef")
