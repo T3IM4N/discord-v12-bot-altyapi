@@ -1,6 +1,6 @@
 ## Giriş
 İndirdiğiniz klasörün içindeki starter.bat botu başlatır, ama başlattığınız zaman karşınıza birsürü konsol hatası gelmektedir, bunlar hata değildir bize sadece eksik modül olduğunu söylemektedir, ve bizim gerekli modülleri indirmemiz gerekmektedir.
-- ##### nasıl modül indirilir:
+- ##### Nasıl modül indirilir:
 İlk önce starter.bat ile botu çalıştırıp bizim için lazım olan modülleri öğrenelim, bunun için aşşağıdaki konsol çıktısına uyarak modülümüzün adını öğrenelim,
 ```bat
 Error: Cannot find module 'discord.js'
