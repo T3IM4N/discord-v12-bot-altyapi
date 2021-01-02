@@ -39,5 +39,32 @@ yukarıdaki kod ile botun durumunu değiştirebilirsiniz,
 İndirdiğiniz klasörün içindeki configs.json dosyasını açın, ve içindeki bilgileri doğru bir şekilde doldurunuz
 
 - ##### Yeni komut ekleme
+İndirdiğiniz klasörün içindeki events klasörüne yeni bir js uzantılı dosya ekliyoruz, dosya adını türkçe karakter içermeden koymak yararınıza olacaktır, sonrasında dosyanın içine aşşağıdaki taslağı yapıştırıyoruz,
 
-[![Press f to pay respect o7](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://github.com/T3IM4N)
+```javascript
+const Discord = require('discord.js');
+const ayarlar = require("../configs.json")
+/*^^^^gerekli modüllerin ekleneceği bölüm^^^^*/
+
+exports.run = (client, message, args) => {
+ // işler kodların bulunacağı yer eğer burada hiç birşey yoksa komutta doğal olarak bir yanıt göndermeyecektir, ve herhangi bir konsol çıktısı göndermez
+};
+
+exports.conf = {
+	enabled: true,
+	guildOnly: false,
+	aliases: [], // komutu yeni kısayollar eklemek için kullanılır köşeli parantezin içine "tmn","kz","test" şeklinde eklemelisiniz.
+	permLevel: 0 // komutu kullanmak için gerekli yetki seviyesi 0 herkesin kullanabilmesi demek.
+};
+
+exports.help = {
+	name: 'deneme',
+	description: 'bu komut ne işe yarar.',
+	usage: 'komut nasıl kullanılır örn : deneme <id> gibi.'
+};
+```
+bu şekilde çoğaltarak kullanabilirsiniz.
+
+Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.gg/sZV8bBfME8 "T3IM4N++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
+
+[![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/sZV8bBfME8)
