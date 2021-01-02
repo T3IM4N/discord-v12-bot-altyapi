@@ -73,7 +73,7 @@ Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar al
 #### Discord:
 Developer Discord: `T3IM4N#6185`
 
-[![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=T3IM4N++&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
+[![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label="T3IM4N++"&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
 
 [![KZSYSTEM](https://img.shields.io/discord/676684128120471572?color=%237289DA&label=KZSYSTEM&logo=discord&logoColor=white)](https://discord.com/invite/sVePrXS)
 
