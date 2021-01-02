@@ -1,4 +1,5 @@
 ## Giriş
+[![KZSYSTEM Discord Invite](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
 İndirdiğiniz klasörün içindeki starter.bat botu başlatır, ama başlattığınız zaman karşınıza birsürü konsol hatası gelmektedir, bunlar hata değildir bize sadece eksik modül olduğunu söylemektedir, ve bizim gerekli modülleri indirmemiz gerekmektedir.
 - ##### nasıl modül indirilir:
 İlk önce starter.bat ile botu çalıştırıp bizim için lazım olan modülleri öğrenelim, bunun için aşşağıdaki konsol çıktısına uyarak modülümüzün adını öğrenelim,
@@ -65,15 +66,15 @@ exports.help = {
 ```
 bu şekilde çoğaltarak kullanabilirsiniz.
 
-Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.gg/sZV8bBfME8 "T3IM4N++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
+Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.com/invite/sZV8bBfME8 "T3IM4N++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
 
 [![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/sZV8bBfME8)
 
 ## Ek Bağlantılar
 #### Discord:
 Developer Discord: `T3IM4N#6185`
-Sunucu 1: [T3IM4N++](https://discord.gg/sZV8bBfME8 "T3IM4N++")
-Sunucu 2: [KZSYSTEM](https://discord.gg/sVePrXS "KZSYSTEM")
+Sunucu 1: [T3IM4N++](https://discord.com/invite/sZV8bBfME8 "T3IM4N++")
+Sunucu 2: [KZSYSTEM](https://discord.com/invite/sVePrXS "KZSYSTEM")
 
 #### YouTube:
 R4V3N Oyun kanalı: [Cüneyt Sedef](https://www.youtube.com/channel/UCXG8WnwhdBXSfME8__wQ4vA "Cüneyt Sedef")
