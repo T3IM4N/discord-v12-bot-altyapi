@@ -9,7 +9,7 @@ modülümüzün adı tırnak işaretleri arasında gösterilmektedir, şimdi bu 
 ```bat
 npm install discord.js
 ```
-npm install kalıcıdır sadece modül adı değişmelidir.
+`npm install` kalıcıdır sadece modül adı değişmelidir.
 
 ## Kullanım
 - ##### ready.js kullanımı
