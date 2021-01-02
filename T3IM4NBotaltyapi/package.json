@@ -4,10 +4,13 @@
   "description": "T3IM4N yapımı javascript discord bot altyapısı",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "author": "T3IM4N",
   "authorid": "515187350414950411",
+  "repository": {
+    "url": "https://github.com/T3IM4N"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
