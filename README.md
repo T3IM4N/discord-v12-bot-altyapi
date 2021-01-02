@@ -10,7 +10,7 @@ modülümüzün adı tırnak işaretleri arasında gösterilmektedir, şimdi bu 
 ```bat
 npm install discord.js
 ```
-`npm install` kalıcıdır sadece modül adı değişmelidir, quick.db kurulumu için [QuickDB](https://stackoverflow.com/questions/55152761/npm-wont-install-quick-db-returns-these-errors "bu bağlantıya") bakabilirsiniz.
+`npm install` kalıcıdır sadece modül adı değişmelidir, `quick.db` kurulumu için [QuickDB](https://stackoverflow.com/questions/55152761/npm-wont-install-quick-db-returns-these-errors "bu bağlantıya") bakabilirsiniz.
 
 ## Kullanım
 - ##### ready.js kullanımı
