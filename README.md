@@ -82,3 +82,6 @@ Developer Discord: `T3IM4N#6185`
 R4V3N Oyun kanalı: [Cüneyt Sedef](https://www.youtube.com/channel/UCXG8WnwhdBXSfME8__wQ4vA "Cüneyt Sedef")
 
 T3IM4N Development kanalı: [T3IM4N](https://www.youtube.com/channel/UCWAkUxLxmj7M50atx-oWkzw/about "T3IM4N")
+
+## Lisans
+Bu yazılım MIT ile lisanslanmıştır, izinsiz kendi yazlımınızmış gibi paylaşmanız dahilinde işlem başlatılır.
