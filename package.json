@@ -1,0 +1,21 @@
+{
+  "name": "t3im4nbotaltyapi",
+  "version": "1.0.0",
+  "description": "T3IM4N yapımı javascript discord bot altyapısı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "T3IM4N",
+  "authorid": "515187350414950411",
+  "repository": {
+    "url": "https://github.com/T3IM4N"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
