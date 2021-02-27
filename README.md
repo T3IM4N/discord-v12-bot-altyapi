@@ -66,15 +66,15 @@ exports.help = {
 ```
 bu şekilde çoğaltarak kullanabilirsiniz.
 
-Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.com/invite/sZV8bBfME8 "T3IM4N++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
+Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.com/invite/wbg8HSWucb "KZSYSTEM++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
 
-[![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/sZV8bBfME8)
+[![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/wbg8HSWucb)
 
 ## Ek Bağlantılar
 #### Discord:
 Developer Discord: `T3IM4N#6185`
 
-[![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=T3IM4N&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
+[![KZSYSTEM++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=KZSYSTEMpp&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
 
 [![KZSYSTEM](https://img.shields.io/discord/676684128120471572?color=%237289DA&label=KZSYSTEM&logo=discord&logoColor=white)](https://discord.com/invite/sVePrXS)
 
