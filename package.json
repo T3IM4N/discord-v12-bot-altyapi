@@ -2,7 +2,7 @@
   "name": "t3im4nbotaltyapi",
   "version": "1.0.0",
   "description": "T3IM4N yapımı javascript discord bot altyapısı",
-  "main": "bot.js",
+  "main": "kzsystem.js",
   "scripts": {
     "start": "node kzsystem.js"
   },
