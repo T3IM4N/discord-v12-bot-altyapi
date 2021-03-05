@@ -43,7 +43,7 @@ module.exports = async (client) => {
 
   /*________Bot Status___________*/
   var rich = [
-    `KZSYSTEM | ${client.guilds.cache.size} Sunucu`,
+    `Arvision | ${client.guilds.cache.size} Sunucu`,
     "!yardım | !help | !discord",
   ];
 
