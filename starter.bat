@@ -1,6 +1,6 @@
 @echo off
 color 0f
-title KZSYSTEM Development
+title Arvision Community
 :a
-node kzsystem.js
+node arvision.js
 goto a
