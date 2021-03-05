@@ -4,7 +4,7 @@
   "description": "T3IM4N yapımı javascript discord bot altyapısı",
   "main": "kzsystem.js",
   "scripts": {
-    "start": "node kzsystem.js"
+    "start": "node arvision.js"
   },
   "author": "T3IM4N",
   "authorid": "515187350414950411",
