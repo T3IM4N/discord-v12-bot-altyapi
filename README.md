@@ -66,17 +66,12 @@ exports.help = {
 ```
 bu şekilde çoğaltarak kullanabilirsiniz.
 
-Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.com/invite/wbg8HSWucb "KZSYSTEM++") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
-
-[![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/wbg8HSWucb)
+Dipnot: Eğer hiç bilginiz yoksa birsürü konsol hatası ve benzeri hatalar almanız çok normal, ve bunun için önemli olan Öğrenmek! sizde [Discord Sunucumuza](https://discord.com/invite/wbg8HSWucb "Arvision Community") gelerek bilmediğiniz şeyleri öğrenebilir ve yetkililerden yardım alabilirsiniz.
 
 ## Ek Bağlantılar
 #### Discord:
 Developer Discord: `T3IM4N#6185`
-
-[![KZSYSTEM++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=KZSYSTEMpp&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
-
-[![KZSYSTEM](https://img.shields.io/discord/676684128120471572?color=%237289DA&label=KZSYSTEM&logo=discord&logoColor=white)](https://discord.com/invite/sVePrXS)
+[![Arvision Community](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Arvision&nbsp;Community&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
 
 #### YouTube:
 T3IM4N Development kanalı: [T3IM4N](https://www.youtube.com/channel/UCWAkUxLxmj7M50atx-oWkzw/about "T3IM4N")
