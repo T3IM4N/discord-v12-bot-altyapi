@@ -1,20 +1,7 @@
 const Discord = require("discord.js");
 const moment = require('moment');
 const conf = require('../configs.json');
-const aylar = {
-    "01": "Ocak",
-    "02": "Şubat",
-    "03": "Mart",
-    "04": "Nisan",
-    "05": "Mayıs",
-    "06": "Haziran",
-    "07": "Temmuz",
-    "08": "Ağustos",
-    "09": "Eylül",
-    "10": "Ekim",
-    "11": "Kasım",
-    "12": "Aralık"
-};
+const aylar = require('../util/mounts.json');
 
 module.exports = async member => {
     const giris = await member.guild.channels.cache.get(conf.gircikKanal);
