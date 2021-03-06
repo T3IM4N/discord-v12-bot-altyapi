@@ -2,7 +2,10 @@
     "prefix": "prefixiniz",
     "owner": "kendi discord idniz",
     "version": "0.1",
-    "embcolor": "renk html code",
+    "maincolor": "html hex color",
+    "errorcolor":"#cc3300",
+    "successcolor":"#99cc33",
+    "warningcolor":"#ffcc00",
     "token": "Tokeniniz",
     "gircikKanal": "gelen ve çıkanın gösterileceği oda"
 }
