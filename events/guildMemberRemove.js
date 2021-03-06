@@ -9,7 +9,7 @@ module.exports = async member => {
   .setColor(conf.maincolor)
   .setAuthor(member.user.tag, member.user.avatarURL())
   .setThumbnail(member.user.avatarURL())
-  .setFooter(member.guild.name + " v" + conf.version)
+  .setFooter(member.guild.name + " - v" + conf.version)
   .setDescription("❌ | <@"+member.id+"> Sunucudan ayrıldı")
   .setTimestamp())
 };
