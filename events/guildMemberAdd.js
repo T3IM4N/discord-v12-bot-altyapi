@@ -12,7 +12,7 @@ module.exports = async member => {
     .setAuthor(member.user.tag, member.user.avatarURL())
     .setThumbnail(member.user.avatarURL())
     .addField('Hesap Oluşturma Tarihi:', `${moment(member.user.createdAt).format('DD')} ${aylar[moment(member.user.createdAt).format('MM')]} ${moment(member.user.createdAt).format('YYYY HH:mm:ss')}`)
-    .setFooter(client.user.username + " - v" +conf.version)
+    .setFooter(member.guild.name + " - v" +conf.version)
     .setDescription("✅ | <@"+member.id+"> Sunucuya katıldı")
     .setTimestamp())
 }
