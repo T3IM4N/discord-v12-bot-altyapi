@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const moment = require('moment');
-const { prefix, embcolor, gircikKanal } = require('../configs.json');
+const conf = require('../configs.json');
 const aylar = {
     "01": "Ocak",
     "02": "Şubat",
@@ -17,11 +17,11 @@ const aylar = {
 };
 
 module.exports = async member => {
-    const giris = await member.guild.channels.cache.get(gircikKanal);
+    const giris = await member.guild.channels.cache.get(conf.gircikKanal);
     if (!giris) return;
 
     giris.send(new Discord.MessageEmbed()
-    .setColor(embcolor)
+    .setColor(conf.maincolor)
     .setAuthor(member.user.tag, member.user.avatarURL())
     .setThumbnail(member.user.avatarURL())
     .addField('Hesap Oluşturma Tarihi:', `${moment(member.user.createdAt).format('DD')} ${aylar[moment(member.user.createdAt).format('MM')]} ${moment(member.user.createdAt).format('YYYY HH:mm:ss')}`)
