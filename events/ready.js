@@ -1,9 +1,6 @@
 const chalk = require("chalk");
 const fs = require("fs");
-const ayarlar = require("../configs.json");
-
-var prefix = ayarlar.prefix;
-var vers = ayarlar.version;
+const conf = require("../configs.json");
 
 module.exports = async (client) => {
   fs.readdir("./commands/", async (err, files) => {
@@ -12,8 +9,8 @@ module.exports = async (client) => {
     var log3 = await chalk.green(`]> ${client.users.cache.size} kullaniciya hizmet veriyor`);
     var log4 = await chalk.green(`]> ${client.channels.cache.size} kanala hizmet veriyor`);
     var log5 = await chalk.green("]> Komut Sayısı: " + files.length);
-    var log6 = await chalk.green("]> Prefix: " + prefix);
-    var log7 = await chalk.green("]> Sürüm: " + vers);
+    var log6 = await chalk.green("]> Prefix: " + conf.prefix);
+    var log7 = await chalk.green("]> Sürüm: " + conf.version);
     var log8 = await chalk.green("]> Bot ID'si: " + client.user.id);
     var log9 = await chalk.green("]> Bot Isim: " + client.user.username);
     var log10 = await chalk.green("[------------] Asistant [-------------]");
