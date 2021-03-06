@@ -1,18 +1,17 @@
 const Discord = require('discord.js');
-const ayarlar = require("../configs.json")
+const conf = require("../configs.json")
 
-var emb = ayarlar.embcolor;
 exports.run = (client, message, args) => {
 
   if(!message.guild) return message.channel.send(new Discord.MessageEmbed()
   .setDescription('❌ Bu komut sadece sunucularda kullanılır.')
-  .setColor(emb)
+  .setColor(conf.maincolor)
   .setAuthor(message.author.username,message.author.avatarURL())
   .setTimestamp()
   .setFooter(client.user.username));
 
   message.channel.send(new Discord.MessageEmbed()
-  .setColor(emb)
+  .setColor(conf.maincolor)
   .setAuthor(message.author.username,message.author.avatarURL())
   .addField(client.user.username + " botunun sunucunuzdaki gecikme süresi: ", `${Math.round(client.ws.ping)} ms`)
   .setTimestamp()
