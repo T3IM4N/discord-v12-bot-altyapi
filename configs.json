@@ -2,7 +2,7 @@
     "prefix": "prefixiniz",
     "owner": "kendi discord idniz",
     "version": "0.1",
-    "embcolor": "rekginiz html code",
+    "embcolor": "renk html code",
     "token": "Tokeniniz",
     "gircikKanal": "gelen ve çıkanın gösterileceği oda"
 }
