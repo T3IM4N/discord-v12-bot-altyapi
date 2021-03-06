@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
-const ayarlar = require("../configs.json")
+const conf = require("../configs.json")
 
-var emb = ayarlar.embcolor;
 exports.run = (client, message, args) => {
     
     if(!message.guild) return message.author.send(new Discord.MessageEmbed()
@@ -22,7 +21,7 @@ exports.run = (client, message, args) => {
 
     message.channel.bulkDelete(args[0], true).then(() => {
         message.channel.send(new Discord.MessageEmbed()
-        .setColor(emb)
+        .setColor(conf.maincolor)
         .setTimestamp()
         .setFooter(client.user.username)
         .setDescription(`${args} adet mesaj silindi`)
