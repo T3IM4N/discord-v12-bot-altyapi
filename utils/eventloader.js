@@ -1,5 +1,6 @@
 const reqEvent = (event) => require(`../events/${event}`);
-const ayarlar = require("../configs.json");
+const conf = require("../configs.json");
+
 module.exports = client => {
   client.on('ready', () => reqEvent('ready')(client));
   client.on('message', reqEvent('message'));
