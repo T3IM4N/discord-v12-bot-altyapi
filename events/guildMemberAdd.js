@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const moment = require('moment');
 const conf = require('../configs.json');
-const aylar = require('../utils/mounts.json');
+const aylar = require('../utils/months.json');
 
 module.exports = async member => {
     const giris = await member.guild.channels.cache.get(conf.gircikKanal);
